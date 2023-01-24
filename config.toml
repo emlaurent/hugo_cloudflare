@@ -43,4 +43,8 @@ title = 'My New Manu Site'
         identifier = "showcase"
         name = "Showcase"
         url = "/showcase"
+      [[languages.en.menu.main]]
+        identifier = "pagetruc"
+        name = "PageTruc"
+        url = "/Prout"
 
