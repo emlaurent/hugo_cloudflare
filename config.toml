@@ -36,9 +36,9 @@ title = 'My New Manu Site'
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about2"
-        name = "about2"
-        url = "/about2"
+        identifier = "About2"
+        name = "About2"
+        url = "/About2"
       [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"
