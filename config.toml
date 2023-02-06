@@ -47,7 +47,7 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "category1"
     name = "Category1"
-    url = "/tags/category1"
+    url = "/posts/readme"
     parent = "category"
     weight = 1
   [[menu.main]]
