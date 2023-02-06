@@ -33,22 +33,55 @@ title = 'My New Manu Site'
     [languages.en.params.logo]
       logoText = "Terminal"
       logoHomeLink = "/"
-
-    [languages.en.menu]
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/posts/about"
-      [[languages.en.menu.main]]
-        identifier = "showcase"
-        name = "Showcase"
-        url = "/showcase"
-      [[languages.en.menu.main]]
-        identifier = "pagetruc"
-        name = "PageTruc"
-        url = "/posts/readme"
-      [[languages.en.menu.main2]]
-        identifier = "pagetruc"
-        name = "PageTruc"
-        url = "/posts/about"
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/posts/readme"
+    weight = 1
+  [[menu.main]]
+    identifier = "category"
+    name = "Category"
+    url = "/category"
+    weight = 2
+  [[menu.main]]
+    identifier = "category1"
+    name = "Category1"
+    url = "/tags/category1"
+    parent = "category"
+    weight = 1
+  [[menu.main]]
+    identifier = "category2"
+    name = "Category2"
+    url = "/posts/about"
+    parent = "category"
+    weight = 2
+  [[menu.main]]
+    identifier = "category3"
+    name = "Category3"
+    url = "/tags/category3"
+    parent = "category"
+    weight = 3
+  [[menu.main]]
+    identifier = "another-category"
+    name = "Another Category"
+    url = "/another-category"
+    weight = 3
+  [[menu.main]]
+    identifier = "another-category1"
+    name = "Another Category1"
+    url = "/tags/another-category1"
+    parent = "another-category"
+    weight = 1
+  [[menu.main]]
+    identifier = "another-category2"
+    name = "Another Category2"
+    url = "/tags/another-category2"
+    parent = "another-category"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About Us"
+    url = "/about/"
+    weight = 4
 
