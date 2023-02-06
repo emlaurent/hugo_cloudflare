@@ -46,5 +46,5 @@ title = 'My New Manu Site'
       [[languages.en.menu.main]]
         identifier = "pagetruc"
         name = "PageTruc"
-        url = "/Prout"
+        url = "/posts/readme"
 
