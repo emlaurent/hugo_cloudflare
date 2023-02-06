@@ -47,4 +47,8 @@ title = 'My New Manu Site'
         identifier = "pagetruc"
         name = "PageTruc"
         url = "/posts/readme"
+      [[languages.en.menu.main2]]
+        identifier = "pagetruc"
+        name = "PageTruc"
+        url = "/posts/about"
 
