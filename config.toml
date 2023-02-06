@@ -42,7 +42,7 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "category"
     name = "Category"
-    url = "/category"
+    url = "/posts/Module_vitroceramique."
     weight = 2
   [[menu.main]]
     identifier = "category1"
@@ -82,6 +82,6 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "about"
     name = "About Us"
-    url = "/about/"
+    url = "/posts/about2"
     weight = 4
 
