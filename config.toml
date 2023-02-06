@@ -42,7 +42,7 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "category"
     name = "Category"
-    url = "/posts/Module_vitroceramique."
+    url = "/posts/Module_vitroceramique"
     weight = 2
   [[menu.main]]
     identifier = "category1"
@@ -53,30 +53,30 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "category2"
     name = "Category2"
-    url = "/posts/about"
+    url = "/posts/hello-world"
     parent = "category"
     weight = 2
   [[menu.main]]
     identifier = "category3"
     name = "Category3"
-    url = "/tags/category3"
+    url = "/posts/about2"
     parent = "category"
     weight = 3
   [[menu.main]]
     identifier = "another-category"
     name = "Another Category"
-    url = "/another-category"
+    url = "/about"
     weight = 3
   [[menu.main]]
     identifier = "another-category1"
     name = "Another Category1"
-    url = "/tags/another-category1"
+    url = "/posts/about2"
     parent = "another-category"
     weight = 1
   [[menu.main]]
     identifier = "another-category2"
     name = "Another Category2"
-    url = "/tags/another-category2"
+    url = "/posts/about"
     parent = "another-category"
     weight = 2
   [[menu.main]]
