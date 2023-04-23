@@ -14,7 +14,7 @@ color = "" #color from the theme settings
 +++
 
 Blablablablabla
-bliblibli
+blobloblo
 ajout du 23/04/23
 
 
