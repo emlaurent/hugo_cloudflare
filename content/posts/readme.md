@@ -1,6 +1,6 @@
 ###### tags: `kljlkjkj`
 
-# Documentations des cuiseurs à bois
+# Documentations des cuiseurs à bois et à vapeur
 
 warninggg Ce document rassemble des photos, plans, liens sur les
 cuiseurs à bois d\'Oxalis-asso.
