@@ -5,6 +5,9 @@
 warninggg Ce document rassemble des photos, plans, liens sur les
 cuiseurs à bois d\'Oxalis-asso.
 
+oh oui!
+x2
+
 **Fabrication du brûleur universel**
 
 -   [Description de la fabrication du bruleur
