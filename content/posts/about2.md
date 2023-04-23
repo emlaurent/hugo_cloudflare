@@ -12,7 +12,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
-## Groupe 6
+## Groupe 66
 
 **Notes présentation**
 
