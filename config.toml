@@ -37,7 +37,7 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "introduction"
     name = "Introduction"
-    url = "/posts/readme"
+    url = "/posts/introduction"
     weight = 1
   [[menu.main]]
     identifier = "about"
