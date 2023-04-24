@@ -49,3 +49,8 @@ title = 'My New Manu Site'
     name = "Annexe"
     url = "/posts/annexe"
     weight = 4
+  [[menu.main]]
+    identifier = "bacasable"
+    name = "BacASable"
+    url = "/posts/tmp"
+    weight = 5
