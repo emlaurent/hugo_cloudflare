@@ -6,9 +6,13 @@ contenu d\'un pad en une page visible ici
 Pour éditer ce texte, [changez ce
 pad](https://pad.lamyne.org/GENEPI_2022_BacaSable?both)
 
-**Texte en gras** ++Texte souligné++ *texte en italique*
+**Texte en gras**
 
-**Note**: la conversion n\'est pas instannée, comptez 15 à 30 sec entre
-l\'écriture sur le pad et la mise à jour sur la page \"web\". Pensez
-également à recharger la page web (la mise à jour n\'étant pas
+++Texte souligné++
+
+*texte en italique*
+
+\*\*Lis **Note**: la conversion n\'est pas instannée, comptez 15 à 30
+sec entre l\'écriture sur le pad et la mise à jour sur la page \"web\".
+Pensez également à recharger la page web (la mise à jour n\'étant pas
 dynamique).
