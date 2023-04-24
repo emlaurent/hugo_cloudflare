@@ -9,4 +9,4 @@ pad](https://pad.lamyne.org/GENEPI_2022_BacaSable?both)
 **Texte en gras** ++Texte souligné++ *texte en italique*
 
 **Note**: la conversion n\'est pas instannée, comptez 15 à 30 sec entre
-l\'crit
+l\'écriture sur le pad et la mise à jo
