@@ -1,6 +1,6 @@
-## Bac à Sable por tester
+## Bac à Sable
 
-Cette page est
+Cette page sert à tester
 
 Pour éditer ce texte, [changez ce
 pad](https://pad.lamyne.org/GENEPI_2022_BacaSable?both)
