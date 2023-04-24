@@ -40,11 +40,6 @@ title = 'My New Manu Site'
     url = "/posts/readme"
     weight = 1
   [[menu.main]]
-    identifier = "category"
-    name = "Category
-    url = "/posts/Module_vitroceramique"
-    weight = 2
-  [[menu.main]]
     identifier = "about"
     name = "Synthèse"
     url = "/posts/synthese"
