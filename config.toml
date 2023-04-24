@@ -36,7 +36,7 @@ title = 'My New Manu Site'
 [menu]
   [[menu.main]]
     identifier = "introduction"
-    name = "Home"
+    name = "Introduction"
     url = "/posts/readme"
     weight = 1
   [[menu.main]]
@@ -45,48 +45,13 @@ title = 'My New Manu Site'
     url = "/posts/Module_vitroceramique"
     weight = 2
   [[menu.main]]
-    identifier = "category1"
-    name = "Category1"
-    url = "/posts/readme"
-    parent = "category"
-    weight = 1
-  [[menu.main]]
-    identifier = "category2"
-    name = "Category2"
-    url = "/posts/hello-world"
-    parent = "category"
-    weight = 2
-  [[menu.main]]
-    identifier = "category3"
-    name = "Category3"
-    url = "/posts/about2"
-    parent = "category"
-    weight = 3
-  [[menu.main]]
-    identifier = "another-category"
-    name = "Another Category"
-    url = "/about"
-    weight = 3
-  [[menu.main]]
-    identifier = "another-category1"
-    name = "Another Category1"
-    url = "/posts/about2"
-    parent = "another-category"
-    weight = 1
-  [[menu.main]]
-    identifier = "another-category2"
-    name = "Another Category2"
-    url = "/posts/about"
-    parent = "another-category"
-    weight = 2
-  [[menu.main]]
     identifier = "about"
     name = "Synthèse"
     url = "/posts/synthese"
-    weight = 4
+    weight = 3
   [[menu.main]]
     identifier = "annexe"
     name = "Annexe"
     url = "/posts/annexe"
-    weight = 5
+    weight = 4
 
