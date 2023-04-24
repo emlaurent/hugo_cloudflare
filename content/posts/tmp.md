@@ -1,5 +1,5 @@
 kdcsjdc
 
-Pour éditer ce tex
+Pour éditer ce texte, change
 pad to hugo
 sdcsdc
