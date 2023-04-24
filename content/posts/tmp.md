@@ -4,3 +4,4 @@ Pour éditer ce texte, [changez ce pad](https://pad.lamyne.org/GENEPI_2022_BacaS
 
 pad to hugo
 
+test 
