@@ -1,10 +1,3 @@
 ## Synthese
 
-**Notes présentation**
-
-**Desalinisateur**
-
-synthese
-sdkvklqsfvlqsfmlv
-ùslfvsdklvlksdlvk
-slvlksdv
+La synthèse qui est le **livrable L4** en tant que tel.
