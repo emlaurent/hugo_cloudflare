@@ -35,13 +35,13 @@ title = 'My New Manu Site'
       logoHomeLink = "/"
 [menu]
   [[menu.main]]
-    identifier = "home"
+    identifier = "introduction"
     name = "Home"
     url = "/posts/readme"
     weight = 1
   [[menu.main]]
     identifier = "category"
-    name = "Category"
+    name = "Category
     url = "/posts/Module_vitroceramique"
     weight = 2
   [[menu.main]]
@@ -85,8 +85,8 @@ title = 'My New Manu Site'
     url = "/posts/synthese"
     weight = 4
   [[menu.main]]
-    identifier = "about"
+    identifier = "annexe"
     name = "Annexe"
     url = "/posts/annexe"
-    weight = 5
+    weight = 6
 
