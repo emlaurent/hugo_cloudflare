@@ -84,4 +84,9 @@ title = 'My New Manu Site'
     name = "Synthèse"
     url = "/posts/synthese"
     weight = 4
+  [[menu.main]]
+    identifier = "about"
+    name = "Annexe"
+    url = "/posts/annexe"
+    weight = 5
 
