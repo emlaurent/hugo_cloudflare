@@ -88,5 +88,5 @@ title = 'My New Manu Site'
     identifier = "annexe"
     name = "Annexe"
     url = "/posts/annexe"
-    weight = 6
+    weight = 5
 
