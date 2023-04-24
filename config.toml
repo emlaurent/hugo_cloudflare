@@ -19,7 +19,7 @@ title = 'My New Manu Site'
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "GEnEPI 2022-23"
     subtitle = "A simple, retro theme for Hugo"
     owner = ""
     keywords = ""
@@ -31,7 +31,7 @@ title = 'My New Manu Site'
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Terminal2"
       logoHomeLink = "/"
 [menu]
   [[menu.main]]
