@@ -6,7 +6,8 @@ contenu d\'un pad en une page visible ici
 
 Pour éditer ce texte, [changez ce
 pad](https://pad.lamyne.org/GENEPI_2022_BacaSable?both)
-testtttttttttttttttttttttttttt **Texte en gras**
+
+**Texte en gras**
 
 ++Texte souligné++
 
