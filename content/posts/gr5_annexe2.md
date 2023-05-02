@@ -1,5 +1,5 @@
 Glossaire
 ---------
 
-Régime permanent : Transmittance : Enthalpie de vaporisation : Surface
-grise : Isotrope : Diffus-isotrope :
+\$\^1\$Régime permanent : \$\^2\$Transmittance : \$\^3\$Enthalpie de
+vaporisation : \$\^4Surface grise : Isotrope : Diffus-isotrope :
