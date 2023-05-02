@@ -108,7 +108,9 @@ résoluble analytiquement (cf système d\'équation, partie
 3`</a>`{=html}), c\'est-à-dire avec autant de températures inconnues que
 d\'équations fournies par les noeuds, le schéma électrique a été
 amplement simplifié. Dans ce but, nous avons réalisé plusieurs
-hypothèses dont
+hypothèses répertoriées dans la partie 3.a. du
+`<a href="https://cloud.lamyne.org/apps/files/?dir=/Communs%20Low-tech/GENEPI_2022_23/Equipe%20G5/Livrables&openfile=361524" >`{=html}Livrable
+3`</a>`{=html}.
 
 ```{=html}
 <p class="alinea">
