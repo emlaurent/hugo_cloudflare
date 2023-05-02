@@ -108,7 +108,8 @@ résoluble analytiquement (cf système d\'équation, partie
 3`</a>`{=html}), c\'est-à-dire avec autant de températures inconnues que
 d\'équations fournies par les noeuds, le schéma électrique a été
 amplement simplifié. Dans ce but, nous avons réalisé plusieurs
-hypothèses que nous allons expliquer : Les pertes
+hypothèses que nous allons expliquer : Nous avons négliger les pertes
+sur le bord du système
 
 ```{=html}
 <p class="alinea">
