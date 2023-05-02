@@ -49,7 +49,7 @@ title = 'My New Manu Site'
     name = "Annexe"
     parent = "introduction"
     pageRef = "/posts/annexe"
-    weight = 4
+    weight = 1
   [[menu.main]]
     identifier = "bacasable"
     name = "BacASable"
