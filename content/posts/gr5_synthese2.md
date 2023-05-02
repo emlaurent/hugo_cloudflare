@@ -105,8 +105,8 @@ Chaque noeud de notre schéma électrique nous donne ainsi une équation
 que le système doit satisfaire. Afin d\'obtenir un système d\'équations
 résoluble analytiquement, c\'est-à-dire avec autant de températures
 inconnues que d\'équations fournies par les noeuds, le schéma électrique
-a été amplement simplifié au préalable. Dans ce but, nous avons réalisé
-plusieurs hypothèses que nous allons expliquer :\...
+a été amplement simplifié. Dans ce but, nous avons réalisé plusieurs
+hypothèses que nous allons expliquer :\...
 
 ```{=html}
 <p class="alinea">
