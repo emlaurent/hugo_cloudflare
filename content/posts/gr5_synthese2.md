@@ -80,11 +80,11 @@ conductive présentée dans le
 `<a href="https://cloud.lamyne.org/apps/files/?dir=/Communs%20Low-tech/GENEPI_2022_23/Equipe%20G5/Livrables&openfile=361524" >`{=html}Livrable
 3`</a>`{=html} (cf partie 3.b.i). Pour les autres transferts de
 chaleurs, l\'évaporation et la condensation, l\'inverse du coefficient
-devant le flux pourrait s\'obtenir de la même manière, à partir des
-expressions de flux associées. Cependant, celles-ci s\'avérant complexes
-dans notre cas d\'étude, nous nous sommes contentés d\'estimer ce
-coefficient en s\'appuyant sur des résultats connus, comme nous le
-verrons par la suite.
+\$h\$ devant le flux pourrait s\'obtenir de la même manière, à partir
+des expressions de flux associées. Cependant, celles-ci s\'avérant
+complexes dans notre cas d\'étude, nous nous sommes contentés d\'estimer
+ce coefficient \$h\$ en s\'appuyant sur des résultats connus, comme nous
+le verrons par la suite.
 
 Afin de bien comprendre ce schéma et les calculs qui s\'ensuivent, il
 est nécessaire de rappeler les méthodes de résolution d'un circuit
