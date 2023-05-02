@@ -98,10 +98,16 @@ l\'inverse de la résistance équivalente s\'obtient comme la somme de
 l\'inverse de chaque résistance. Par exemple, cela nous a permis
 d\'obtenir \$R\_{int}\$.
 
-```{=html}
-<p class="alinea">
-Une fois le circuit simplifié, la loi des noeuds s’applique au niveau d’un noeud (croisement de plusieurs flux arrivants/sortants) : la somme des flux arrivants est égale à la somme des flux partants de ce noeud. Chaque noeud de notre schéma électrique nous donne ainsi une équation que le système doit satisfaire. Afin d'obtenir un système d'équations résoluble analytiquement, c'est-à-dire avec autant de températures inconnues que d'équations fournies par les noeuds, le schéma électrique a été amplement simplifié. Dans ce but, nous avons réalisé plusieurs hypothèses que nous allons expliquer :...   
-```
+Une fois le circuit simplifié, la loi des noeuds s'applique au niveau
+d'un noeud (croisement de plusieurs flux arrivants/sortants) : la somme
+des flux arrivants est égale à la somme des flux partants de ce noeud.
+Chaque noeud de notre schéma électrique nous donne ainsi une équation
+que le système doit satisfaire. Afin d\'obtenir un système d\'équations
+résoluble analytiquement, c\'est-à-dire avec autant de températures
+inconnues que d\'équations fournies par les noeuds, le schéma électrique
+a été amplement simplifié. Dans ce but, nous avons réalisé plusieurs
+hypothèses que nous allons expliquer :\...
+
 ```{=html}
 <p class="alinea">
 Cependant, il est à noter que les coefficients d’échanges thermiques eux-mêmes dépendent de paramètres physiques des composants du système et de ses environs. Alors, nous avons distingué quelques paramètres sur lesquels il faut porter notre attention :
