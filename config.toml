@@ -55,6 +55,21 @@ title = 'My New Manu Site'
     pageRef = "/posts/tmp"
     weight = 4
   [[menu.main]]
+    identifier = "gr1_introduction"
+    name = "Gr1 Introduction"
+    pageRef = "/posts/gr1_introduction2.md"
+    weight = 5
+  [[menu.main]]
+    identifier = "gr1_synthese"
+    name = "Gr1 Synthèse"
+    pageRef = "/posts/gr1_synthese2.md"
+    weight = 6
+  [[menu.main]]
+    identifier = "gr1_annexe"
+    name = "Gr1 Annexe"
+    pageRef = "/posts/gr1_annexe2.md"
+    weight = 7
+  [[menu.main]]
     identifier = "gr2_introduction"
     name = "Gr2 Introduction"
     pageRef = "/posts/gr2_introduction2.md"
@@ -99,3 +114,33 @@ title = 'My New Manu Site'
     name = "Gr4 Annexe"
     pageRef = "/posts/gr4_annexe2.md"
     weight = 16
+  [[menu.main]]
+    identifier = "gr5_introduction"
+    name = "Gr5 Introduction"
+    pageRef = "/posts/gr5_introduction2.md"
+    weight = 17
+  [[menu.main]]
+    identifier = "gr5_synthese"
+    name = "Gr5 Synthèse"
+    pageRef = "/posts/gr5_synthese2.md"
+    weight = 18
+  [[menu.main]]
+    identifier = "gr5_annexe"
+    name = "Gr5 Annexe"
+    pageRef = "/posts/gr5_annexe2.md"
+    weight = 19
+  [[menu.main]]
+    identifier = "gr6_introduction"
+    name = "Gr6 Introduction"
+    pageRef = "/posts/gr6_introduction2.md"
+    weight = 20
+  [[menu.main]]
+    identifier = "gr6_synthese"
+    name = "Gr6 Synthèse"
+    pageRef = "/posts/gr6_synthese2.md"
+    weight = 21
+  [[menu.main]]
+    identifier = "gr6_annexe"
+    name = "Gr6 Annexe"
+    pageRef = "/posts/gr6_annexe2.md"
+    weight = 22
