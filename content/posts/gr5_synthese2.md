@@ -103,8 +103,8 @@ d'un noeud (croisement de plusieurs flux arrivants/sortants) : la somme
 des flux arrivants est égale à la somme des flux partants de ce noeud.
 Chaque noeud de notre schéma électrique nous donne ainsi une équation
 que le système doit satisfaire. Afin d\'obtenir un système d\'équations
-résoluble analytiquement (cf système d\'équation, partie
-3.b.ii.,`<a href="https://cloud.lamyne.org/apps/files/?dir=/Communs%20Low-tech/GENEPI_2022_23/Equipe%20G5/Livrables&openfile=361524" >`{=html}Livrable
+résoluble analytiquement (cf système d\'équation, partie 3.b.ii.,
+`<a href="https://cloud.lamyne.org/apps/files/?dir=/Communs%20Low-tech/GENEPI_2022_23/Equipe%20G5/Livrables&openfile=361524" >`{=html}Livrable
 3`</a>`{=html}), c\'est-à-dire avec autant de températures inconnues que
 d\'équations fournies par les noeuds, le schéma électrique a été
 amplement simplifié. Dans ce but, nous avons réalisé plusieurs
