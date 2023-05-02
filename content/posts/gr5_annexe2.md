@@ -2,4 +2,4 @@ Glossaire
 ---------
 
 Régime permanent : Transmittance : Enthalpie de vaporisation : Surface
-grise : Isotrope :
+grise : Isotrope : Diffus-isotrope :
