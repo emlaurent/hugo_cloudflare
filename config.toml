@@ -55,12 +55,17 @@ title = 'My New Manu Site'
     pageRef = "/posts/tmp"
     weight = 4
   [[menu.main]]
-    identifier = "gr1_introduction"
-    name = "gr2_introduction"
+    identifier = "gr2_introduction"
+    name = "Gr2 Introduction"
     pageRef = "/posts/gr2_introduction2.md"
     weight = 8
   [[menu.main]]
     identifier = "gr2_synthese"
-    name = "gr2_synthese"
+    name = "Gr2 Synthèse"
     pageRef = "/posts/gr2_synthese2.md"
     weight = 9
+  [[menu.main]]
+    identifier = "gr2_annexe"
+    name = "Gr2 Annexe"
+    pageRef = "/posts/gr2_annexe2.md"
+    weight = 10
