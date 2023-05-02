@@ -69,3 +69,33 @@ title = 'My New Manu Site'
     name = "Gr2 Annexe"
     pageRef = "/posts/gr2_annexe2.md"
     weight = 10
+  [[menu.main]]
+    identifier = "gr3_introduction"
+    name = "Gr3 Introduction"
+    pageRef = "/posts/gr3_introduction2.md"
+    weight = 11
+  [[menu.main]]
+    identifier = "gr3_synthese"
+    name = "Gr3 Synthèse"
+    pageRef = "/posts/gr3_synthese2.md"
+    weight = 12
+  [[menu.main]]
+    identifier = "gr3_annexe"
+    name = "Gr3 Annexe"
+    pageRef = "/posts/gr3_annexe2.md"
+    weight = 13
+  [[menu.main]]
+    identifier = "gr4_introduction"
+    name = "Gr4 Introduction"
+    pageRef = "/posts/gr4_introduction2.md"
+    weight = 14
+  [[menu.main]]
+    identifier = "gr4_synthese"
+    name = "Gr4 Synthèse"
+    pageRef = "/posts/gr4_synthese2.md"
+    weight = 15
+  [[menu.main]]
+    identifier = "gr4_annexe"
+    name = "Gr4 Annexe"
+    pageRef = "/posts/gr4_annexe2.md"
+    weight = 16
