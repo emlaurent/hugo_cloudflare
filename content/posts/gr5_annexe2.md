@@ -1,4 +1,5 @@
 Glossaire
 ---------
 
-Régime permanent : Transmittance : Enthalpie de vaporisatio
+Régime permanent : Transmittance : Enthalpie de vaporisation : Surface
+grise : Isotrope :
