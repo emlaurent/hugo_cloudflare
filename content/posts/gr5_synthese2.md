@@ -115,7 +115,7 @@ définir le vocabulaire technique employé.
 
 ```{=html}
 <p class="alinea">
-Toutes les formules étudiées précédemment ont été reportées dans un excel (cf annexe) afin de résoudre le système d'équation et d'obtenir un débit d'eau douce en fonction des paramètres rentrés. Parmi ces paramètres, nous en avons selectionné quelques uns qui dépendent des conditions extérieures ou propres au système. Pour s'y adapter, il est nécessaire de les faire varier
+Toutes les formules étudiées précédemment ont été reportées dans un excel (cf annexe) afin de résoudre le système d'équation et d'obtenir un débit d'eau douce en fonction des paramètres rentrés. Parmi ces paramètres, nous en avons selectionné quelques uns qui dépendent des conditions extérieures ou propres au système. Pour s'y adapter, il alors est nécessaire de les faire varier selon 
 ```
 -   **Flux solaire incident considéré** Selon le jour considéré, l'heure
     à laquelle le dessalinisateur est utilisé ou encore la météo du
