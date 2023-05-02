@@ -47,6 +47,7 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "annexe"
     name = "Annexe"
+    parent = "Introduction"
     url = "/posts/annexe"
     weight = 4
   [[menu.main]]
