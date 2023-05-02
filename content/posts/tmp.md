@@ -11,6 +11,8 @@ pad](https://pad.lamyne.org/GENEPI_2022_BacaSable?both)
 
 ++Texte souligné++
 
+<u>Texte souligné avec une balise html</u>
+
 *texte en italique*
 
 **Liste**
