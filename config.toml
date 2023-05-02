@@ -42,16 +42,20 @@ title = 'My New Manu Site'
   [[menu.main]]
     identifier = "about"
     name = "Synthèse"
-    parent = "introduction"
     pageRef = "/posts/synthese"
-    weight = 3
+    weight = 2
   [[menu.main]]
     identifier = "annexe"
     name = "Annexe"
     pageRef = "/posts/annexe"
-    weight = 1
+    weight = 3
   [[menu.main]]
     identifier = "bacasable"
     name = "BacASable"
     pageRef = "/posts/tmp"
+    weight = 4
+  [[menu.main]]
+    identifier = "gr1_introduction"
+    name = "gr1_introduction"
+    pageRef = "/posts/gr1_introduction2.md"
     weight = 5
