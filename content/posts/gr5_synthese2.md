@@ -76,13 +76,15 @@ s'appuyer sur la Loi de Fourier \[hypertexte\] unidimentionelle à
 travers un mur d\'épaisseur \$e\$ : on exprime la variation de
 température en fonction du flux et on égale le coefficient devant le
 flux obtenu à une résistance pour obtenir la formule de résistance
-conductive présentée dans le Livrable 3 (3)b)i)). Pour les autres
-transferts de chaleurs, l\'évaporation et la condensation, le
-coefficient devant le flux pourrait s\'obtenir de la même manière, à
-partir des expressions de flux associées. Cependant, celles-ci
-s\'avérant complexes dans notre cas d\'étude, nous nous sommes contentés
-d\'estimer ce coefficient en s\'appuyant sur des résultats connus, comme
-nous le verrons par la suite.
+conductive présentée dans le
+`<a href="https://cloud.lamyne.org/apps/files/?dir=/Communs%20Low-tech/GENEPI_2022_23/Equipe%20G5/Livrables&openfile=361524" >`{=html}Livrable
+3`</a>`{=html} (cf partie ). Pour les autres transferts de chaleurs,
+l\'évaporation et la condensation, le coefficient devant le flux
+pourrait s\'obtenir de la même manière, à partir des expressions de flux
+associées. Cependant, celles-ci s\'avérant complexes dans notre cas
+d\'étude, nous nous sommes contentés d\'estimer ce coefficient en
+s\'appuyant sur des résultats connus, comme nous le verrons par la
+suite.
 
 Afin de bien comprendre ce schéma et les calculs qui s\'ensuivent, il
 est nécessaire de rappeler les méthodes de résolution d'un circuit
