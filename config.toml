@@ -35,17 +35,19 @@ title = 'My New Manu Site'
       logoHomeLink = "/"
 [menu]
   [[menu.main]]
+    identifier = "introduction"
     name = "Introduction"
     pageRef = "/posts/introduction"
     weight = 1
   [[menu.main]]
     identifier = "about"
     name = "Synthèse"
+    parent = "introduction"
     pageRef = "/posts/synthese"
     weight = 3
   [[menu.main]]
+    identifier = "annexe"
     name = "Annexe"
-    parent = "Introduction"
     pageRef = "/posts/annexe"
     weight = 1
   [[menu.main]]
