@@ -115,7 +115,7 @@ définir le vocabulaire technique employé.
 
 ```{=html}
 <p class="alinea">
-Toutes les formules étudiées précédemment ont été reportées dans un excel (cf annexe) afin de résoudre le système d'équation et d'obtenir un débit d'eau douce en fonction des paramètres rentrés , il est à noter que les coefficients d’échanges thermiques eux-mêmes dépendent de paramètres physiques des composants du système et de ses environs. Alors, nous avons distingué quelques paramètres sur lesquels il faut porter notre attention :
+Toutes les formules étudiées précédemment ont été reportées dans un excel (cf annexe) afin de résoudre le système d'équation et d'obtenir un débit d'eau douce en fonction des paramètres rentrés. Parmi ces paramètres,  , il est à noter que les coefficients d’échanges thermiques eux-mêmes dépendent de paramètres physiques des composants du système et de ses environs. Alors, nous avons distingué quelques paramètres sur lesquels il faut porter notre attention :
 ```
 -   **Flux solaire incident considéré** Selon le jour considéré, l'heure
     à laquelle le dessalinisateur est utilisé ou encore la météo du
