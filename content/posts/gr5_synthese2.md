@@ -102,11 +102,11 @@ Une fois le circuit simplifié, la loi des noeuds s'applique au niveau
 d'un noeud (croisement de plusieurs flux arrivants/sortants) : la somme
 des flux arrivants est égale à la somme des flux partants de ce noeud.
 Chaque noeud de notre schéma électrique nous donne ainsi une équation
-que le système doit satisfaire. Afin d\'obtenir un système d\'équations
-résoluble analytiquement, c\'est-à-dire avec autant de températures
-inconnues que d\'équations fournies par les noeuds, le schéma électrique
-a été amplement simplifié. Dans ce but, nous avons réalisé plusieurs
-hypothèses que nous allons expliquer :\...
+que le système doit satisfaire (cf . Afin d\'obtenir un système
+d\'équations résoluble analytiquement, c\'est-à-dire avec autant de
+températures inconnues que d\'équations fournies par les noeuds, le
+schéma électrique a été amplement simplifié. Dans ce but, nous avons
+réalisé plusieurs hypothèses que nous allons expliquer :\...
 
 ```{=html}
 <p class="alinea">
